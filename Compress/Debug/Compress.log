@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  unzip.cpp
+  zip.cpp
+  Compress.cpp
+C:\Users\user\source\repos\Compress\Compress\Compress.cpp(36,31): warning C4244: '=': 'const WCHAR'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Compress\Compress\Compress.cpp(50,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  Compress.vcxproj -> C:\Users\user\source\repos\Compress\Debug\Compress.exe
